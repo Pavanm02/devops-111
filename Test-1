@@ -1,0 +1,10 @@
+Clone 
+fetch 
+pull 
+
+in fetch we need to use 2 steps:
+git fetch origin master 
+git merge origin master
+
+but in pull we can use 2 commands fetch and merge in single command that ie
+git pull origin master
